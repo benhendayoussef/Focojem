@@ -4,7 +4,7 @@
 
 > An innovative mobile solution for seamless productivity and business management – **now available on the Play Store**! 🎉
 
-🔗 [Download on Google Play](https://lnkd.in/eXX6u7XQ)
+🔗 [Download on Google Play](https://play.google.com/store/apps/details?id=com.Focojem.focojem)
 
 ---
 
@@ -84,7 +84,7 @@ Huge gratitude to **Achraf Bouchalghouma** for the outstanding UI work — your 
 We’d love your feedback!  
 Download the app, try it out, and share your thoughts.
 
-🔗 [FocoJem on Google Play](https://lnkd.in/eXX6u7XQ)
+🔗 [FocoJem on Google Play](https://play.google.com/store/apps/details?id=com.Focojem.focojem)
 
 ---
 
